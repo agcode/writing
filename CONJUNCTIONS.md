@@ -1,6 +1,3 @@
-# writing
-Grammar and other stuff
-CONJUNCTIONS
 Conjunctions are words that link other words in a sentence and indicate the relationship between those words. There are four types of conjunctions:
 
 coordinating conjunctions
